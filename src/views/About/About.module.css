@@ -1,0 +1,95 @@
+/* About.module.css */
+
+.about-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+.about {
+    background-color: #6f4e4ede;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.about h1 {
+    font-size: 1.1rem;
+    color: whitesmoke;
+}
+
+.about p {
+    font-size: 1.05rem;
+    line-height: 1.5;
+    text-align: left;
+    color: #201f1f;
+}
+
+.about a {
+    color: #eef3f7;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.about a:hover {
+    color: #0055aa;
+}
+
+.tech-title {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    color: whitesmoke
+    ;
+}
+
+.tech-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 10px;
+    
+}
+
+
+.tech-container img {
+    width: 60px; 
+    height: 60px; 
+}
+
+.tech-container h1 {
+    font-size: 1rem;
+    color: whitesmoke;
+    margin-top: 5px;
+}
+
+
+
+.javascript {
+    text-align: center;
+}
+
+.html {
+    text-align: center;
+}
+
+.css {
+    text-align: center;
+}
+
+.react {
+    text-align: center;
+}
+
+.redux {
+    text-align: center;
+}
+
+.express {
+    text-align: center;
+}
+
+.PostgreSQL {
+    text-align: center;
+}
+

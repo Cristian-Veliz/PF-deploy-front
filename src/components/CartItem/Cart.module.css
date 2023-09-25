@@ -1,0 +1,9 @@
+.eliminar{
+    display:flex;
+    align-items:center;
+    flex-direction:row;
+    justify-content: space-between;
+    margin: 10px;
+    border-radius: 7px;
+    padding: 2px;
+}
